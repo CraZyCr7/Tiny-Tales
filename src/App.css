@@ -1,0 +1,49 @@
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.submit button {
+  background-color: #0077cc;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  font-size: 1.25rem;
+  cursor: pointer;
+}
+
+.submit button:hover {
+  background-color: #005fa3;
+}
+
+.chart {
+  margin-top: 2rem;
+}
+
+.export button {
+  margin-top: 2rem;
+  background-color: #0077cc;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  font-size: 1.25rem;
+  cursor: pointer;
+}
+
+.export button:hover {
+  background-color: #005fa3;
+}
