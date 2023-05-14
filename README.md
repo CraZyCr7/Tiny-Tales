@@ -25,5 +25,5 @@ occurence of words and storing it in the array.
 After all this i had deployed mine website on netlify.
 - Here is the deployed Link you can copy it to the web browse and make sure your internet connection is there as we are fetching data from the text file so if the
 internet will not be there then the data can't be fetched and you will not be able to se the histogram.
-```https://word-count7.netlify.app/```
+ ```https://word-count7.netlify.app/```
 
